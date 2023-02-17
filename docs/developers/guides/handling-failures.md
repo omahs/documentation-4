@@ -84,4 +84,4 @@ We recommend that xApp developers consider recovery options in case of reverting
 
 Alternatively, the protocol can implement an allowlist for addresses that are able to rescue funds and redirect them to users. 
 
-Connext is actively researching standards and best practices for receiver contracts. Reach out to us if you questions!
+Connext is actively researching standards and best practices for receiver contracts. Reach out to us if you have questions!
